@@ -1,0 +1,135 @@
+@media  (min-width:441px) and (max-width:1366px){
+    .container{
+        width:80%;
+       }
+
+
+       .big{
+        
+            margin-top: 250px;
+            margin-left: 80px;
+            font-size: 120px;
+            color: #fff;   
+            font-weight: 900;
+            line-height: 39px;
+            width: 800px;
+            height: 60px;
+        
+    }
+
+    .big2{
+        margin-top: 57px;
+    margin-left: 80px;
+    font-size: 120px;
+    color: #fff;
+    font-weight: 900;
+    line-height: 39px;
+    width: 1000px;
+    height: 500px;
+    }
+
+    .about{
+       
+        color: #727272;
+        font-size: 17px;
+        width: 500px;
+        margin-top: -400px;
+        margin-left: 96px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        
+    }
+
+    .man {
+        position: absolute;
+    top: 264px;
+    left: 726px;
+    width: 357px;
+    }
+
+    .wid1 {
+        position: absolute;
+        top: 572px;
+        left: 595px;
+        background-color: #262626;
+        width: 206px;
+        height: 92px;
+        border-radius: 20px;
+    }
+    
+    .play {
+        margin-top: 27px;
+    margin-left: 24px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .x350 {
+        color: #fff;
+        font-size: 40px;
+        margin-left: 74px;
+        margin-top: -65px;
+    }
+
+    .tut {
+        color: rgb(118, 118, 118);
+        font-size: 13px;
+        margin-left: 76px;
+        margin-top: 6px;
+    }
+
+    .wid3 {
+        position: absolute;
+        top: 330px;
+        left: 1018px;
+        background-color: #bf6e50;
+        width: 206px;
+        height: 92px;
+        border-radius: 20px;
+    }
+
+    .time {
+        width: 30px;
+        height: 30px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+
+    .timer {
+        color: #fff;
+        font-size: 50px;
+        margin-left: 49px;
+        margin-top: -24px;
+    }
+
+    .min2 {
+        color: #fff;
+        font-size: 13px;
+        margin-left: 148px;
+        margin-top: -25px;
+    }
+
+    .wid2 {
+        position: absolute;
+        top: 646px;
+        left: 1024px;
+        background-color: #6221B0;
+        width: 206px;
+        height: 92px;
+        border-radius: 20px;
+    }
+
+    .min {
+        color: #fff;
+        font-size: 13px;
+        margin-left: 177px;
+        margin-top: -25px;
+    }
+
+    .main{
+        min-height: 1000px;
+        width: 1200px;
+        margin: 300px auto;
+    }
+}
