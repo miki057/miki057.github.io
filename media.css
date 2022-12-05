@@ -189,6 +189,7 @@
     video{
         width: 197px;
         position: absolute;
+        top:  40px;
         left: 110px;
     }
     
